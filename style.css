@@ -1,0 +1,41 @@
+  
+  #esas
+  {width: 100px;
+   height: 500px;
+   margin: 0 auto;}
+  header{
+
+    color: black;
+    background-color:grey;
+    text-align: center;
+    padding: 2%;
+}
+p{text-align: center;}
+body{background-color: darkgrey;}
+
+  #left-side,center
+{float: left;
+width: 30%;
+box-sizing:border-box;
+margin: 2%;}
+
+#right-side
+{float:right;
+width: 30%;;
+margin: 2%;
+box-sizing: border-box;
+}
+
+#center
+{float: left;
+    width: 40%;
+    margin-bottom: 20px;
+    box-sizing:border-box;}
+   
+   footer{
+    
+text-align: center !important;
+width: 500px;
+margin-bottom:10px;
+ }
+
